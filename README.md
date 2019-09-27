@@ -17,3 +17,9 @@ Algoritma :</br>
 </br>
 4.  Selesai. 
 </p>
+
+<p align="center">
+  <img src="https://github.com/dioob/Pohon-Biner/blob/master/Screenshot_510.png">
+</p>
+
+<p align="justify">Nama Saya : DIO BANU RACHMAN </p>
