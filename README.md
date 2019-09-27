@@ -22,4 +22,5 @@ Algoritma :</br>
   <img src="https://github.com/dioob/Pohon-Biner/blob/master/Screenshot_510.png">
 </p>
 
-<p align="justify">Nama Saya : DIO BANU RACHMAN </p>
+<p align="justify">Nama Saya : DIO BANU RACHMAN</br>
+Elemen : D, I, O, B, A, N, U, R, A, C, H, M, A, & N</p>
